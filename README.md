@@ -3,6 +3,7 @@ Connect an existing API via Redux and use the data to display something in a UI.
 
 # Screenshots
 
+![randomusergenerator](https://user-images.githubusercontent.com/108772486/233606123-eb7d4a08-068e-441c-b43b-dae5a55c2cc2.png)
 
 # Author
 ## 👤 Ada Rachel
